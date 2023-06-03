@@ -1,16 +1,18 @@
-### Hi there 👋
+**Opaa! Eu Sou o Gustavo Andrade da Silva 🔥**
 
-<!--
-**GustavoAndra/GustavoAndra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Informática terceiro ano da Escola Técnica Estadual Monteiro Lobato 
 
-Here are some ideas to get you started:
+⭐ Pretendo ser desenvolvedor Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Estudante de React.js e Vue.js
+
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAndra&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndra&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+**👨‍💻 Tecnologias que Utilizo**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![snake gif](https://github.com/vinikrummenauer/vinikrummenauer/blob/output/github-contribution-grid-snake.svg)
